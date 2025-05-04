@@ -1,0 +1,9 @@
+# python environment
+env/
+
+# folder to store models
+resources/
+
+/**/*/__pycache__/
+*.pyc
+*.pyo
